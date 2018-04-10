@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="28"
+    build-mode="HOT_WARM"
+    density="xxhdpi"
+    format="10"
+    plugin-version="3.1.0"
+    timestamp="1523390563836"
+    token="8136192940505125072"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="80" />
+    <task
+        name="instant-run-transform"
+        duration="135" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1523389851321"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1523390434144"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1523390490284"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/builds/debug/1523390490284/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1523390539886"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/builds/debug/1523390539886/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1523390563836"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

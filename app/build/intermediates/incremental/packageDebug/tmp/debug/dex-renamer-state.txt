@@ -1,0 +1,7 @@
+#Tue Apr 10 14:51:07 COT 2018
+base.0=/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/transforms/dexMerger/debug/12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/transforms/dexMerger/debug/11
