@@ -14,9 +14,9 @@
         android:id="@+id/txtResult"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
+        android:gravity="center"
         android:text="Turno X"
-        android:gravity="center"/>
+        android:textSize="30sp" />
 
     <GridLayout
         android:id="@+id/gridLayout"
@@ -28,11 +28,9 @@
             android:id="@+id/btn1"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:layout_column="0"
-            android:layout_row="0"
-            android:background="@android:color/transparent"
+            android:background="@drawable/border"
             android:textColor="@android:color/background_dark"
-            android:textSize="80sp" />
+            android:textSize="80sp"/>
 
         <Button
             android:id="@+id/btn2"
