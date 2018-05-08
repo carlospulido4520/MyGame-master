@@ -4,7 +4,17 @@
             "outputFile": "/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/ceisutb17/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/2c946a2067d577f801fe6ff238f571b8/res/values-v16/values-v16.xml",
+                    "source": "/Users/ceisutb17/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cec8be8befe108fa58d03bfb93227316/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/ceisutb17/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/03f2cca588a61983891dc42fcc1e437c/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/ceisutb17/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/57f9690002ce1a1267d25ac85e53be76/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

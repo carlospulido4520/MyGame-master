@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130740118042",
+    "firebase_url": "https://login-59706.firebaseio.com",
+    "project_id": "login-59706",
+    "storage_bucket": "login-59706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130740118042:android:ffe58390943d1348",
+        "android_client_info": {
+          "package_name": "com.example.claudiaortiz.mygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130740118042-n2e4i07v66gs328os65gnegpvsniasdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.claudiaortiz.mygame",
+            "certificate_hash": "bfebbeb4a5cdc097e8a6d6ca08ca0dcee8872fbf"
+          }
+        },
+        {
+          "client_id": "130740118042-iml3j0stk9r2sta2iser6ditgplie0fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9wYfh58rWXs1HXLBTRMXX8mwkK7MS2Zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130740118042-iml3j0stk9r2sta2iser6ditgplie0fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
