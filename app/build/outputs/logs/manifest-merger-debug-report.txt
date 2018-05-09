@@ -106,7 +106,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ceisutb17/.gradle/cach
 	android:roundIcon
 		ADDED from /Users/ceisutb17/Downloads/MyGame-master/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/ceisutb17/Downloads/MyGame-master/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/ceisutb17/Downloads/MyGame-master/app/src/main/AndroidManifest.xml:7:9-54
 	android:allowBackup
 		ADDED from /Users/ceisutb17/Downloads/MyGame-master/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme

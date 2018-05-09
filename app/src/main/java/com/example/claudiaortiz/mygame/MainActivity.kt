@@ -110,9 +110,9 @@ class MainActivity() : AppCompatActivity(),View.OnClickListener, Parcelable {
         }
         button.text=cells[index]
         if(cells[index] == o){
-            button.setTextColor(Color.BLACK)
+            button.setTextColor(Color.WHITE)
         }else{
-            button.setTextColor(Color.RED)
+            button.setTextColor(Color.YELLOW)
         }
         button.isEnabled=false
         isX=!isX
@@ -130,7 +130,7 @@ class MainActivity() : AppCompatActivity(),View.OnClickListener, Parcelable {
         isX=true
         winner=""
         txtResult.text=resources.getString(R.string.next_player,x)
-        txtResult.setTextColor(Color.BLACK)
+        txtResult.setTextColor(Color.WHITE)
         resetButton()
     }
 

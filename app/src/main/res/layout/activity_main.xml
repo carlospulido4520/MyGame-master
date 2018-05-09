@@ -22,7 +22,7 @@
         android:id="@+id/gridLayout"
         android:layout_width="298dp"
         android:layout_height="301dp"
-        android:background="@drawable/grid">
+        android:background="@drawable/grid1">
 
         <Button
             android:id="@+id/btn1"
@@ -104,10 +104,11 @@
 
     <Button
         android:id="@+id/btnReset"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Reset"
-        android:onClick="reset"/>
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/reset"
+        android:elevation="0dp"
+        android:onClick="reset" />
 </LinearLayout>
 
 
