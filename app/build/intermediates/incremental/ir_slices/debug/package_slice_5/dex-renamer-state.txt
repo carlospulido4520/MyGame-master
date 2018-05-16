@@ -1,4 +1,4 @@
-#Wed May 09 14:07:03 COT 2018
-base.0=/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/transforms/dexMerger/debug/5
+#Wed May 16 13:42:36 COT 2018
+base.0=/Users/ceisutb17/Downloads/MyGame-master/app/build/intermediates/transforms/dexMerger/debug/20
 path.0=classes.dex
 renamed.0=classes.dex
